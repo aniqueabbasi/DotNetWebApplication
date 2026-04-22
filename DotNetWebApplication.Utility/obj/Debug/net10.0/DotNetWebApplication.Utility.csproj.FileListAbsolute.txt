@@ -1,0 +1,11 @@
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\bin\Debug\net10.0\DotNetWebApplication.Utility.deps.json
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\bin\Debug\net10.0\DotNetWebApplication.Utility.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\bin\Debug\net10.0\DotNetWebApplication.Utility.pdb
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.AssemblyInfoInputs.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.AssemblyInfo.cs
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\refint\DotNetWebApplication.Utility.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\DotNetWebApplication.Utility.pdb
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Utility\obj\Debug\net10.0\ref\DotNetWebApplication.Utility.dll

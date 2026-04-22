@@ -1,0 +1,14 @@
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\bin\Debug\net10.0\DotNetWebApplication.Models.deps.json
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\bin\Debug\net10.0\DotNetWebApplication.Models.runtimeconfig.json
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\bin\Debug\net10.0\DotNetWebApplication.Models.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\bin\Debug\net10.0\DotNetWebApplication.Models.pdb
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.csproj.AssemblyReference.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.AssemblyInfoInputs.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.AssemblyInfo.cs
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.csproj.CoreCompileInputs.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\refint\DotNetWebApplication.Models.dll
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.pdb
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\DotNetWebApplication.Models.genruntimeconfig.cache
+C:\Users\ZTECH\Desktop\MVC Dot net\DotNetWebApplication.Models\obj\Debug\net10.0\ref\DotNetWebApplication.Models.dll
