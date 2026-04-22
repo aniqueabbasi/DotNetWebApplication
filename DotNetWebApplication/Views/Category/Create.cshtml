@@ -1,0 +1,71 @@
+﻿@model  DotNetWebApplication.Models.Category
+
+<form method="post">
+
+    <div class="border p-4 mt-4">
+
+        <!-- Title -->
+        <div class="row pb-2">
+            <h2 class="text-uppercase">Create Category</h2>
+            <hr />
+        </div>
+
+        <!-- Category Name -->
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <div asp-validation-summary="ModelOnly"> </div>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Age" class="form-label">Age</label>
+            <input asp-for="Age" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" , class="text-danger"> please enter the email      </span>
+
+        </div>
+
+
+
+
+
+
+        <div class="mb-3">
+            <label asp-for="DisplayOrder" class="form-label"></label>
+            <input asp-for="DisplayOrder" class="form-control" />
+            <span asp-validation-for="DisplayOrder", class="text-danger"> Display order</span>
+        </div>
+        <!-- Buttons Row -->
+        <div class="row">
+
+            <!-- Create Button -->
+            <div class="col-6">
+                <button type="submit" class="btn btn-dark w-100">
+                    CREATE
+                </button>
+            </div>
+
+            <!-- Back Button -->
+            <div class="col-6">
+                <a asp-controller="Category" asp-action="Index"
+                       class="btn btn-outline-secondary w-100">
+                    BACK TO LIST
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</form>
+ @section Scripts{
+
+     @{
+
+        <partial name="_ValidationScriptsPartial" />
+         
+     }
+ }

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DotNetWebApplication.DataAccess/DotNetWebApplication.DataAccess.csproj" Id="3280784c-aefc-4229-b178-ed0fe4f73829" />
+  <Project Path="../DotNetWebApplication.Models/DotNetWebApplication.Models.csproj" Id="a4e4e697-edd9-4a69-8bfe-5c041125c2f7" />
+  <Project Path="../DotNetWebApplication.Utility/DotNetWebApplication.Utility.csproj" Id="ca146266-0311-450f-a34c-4f1a86f01c4c" />
+  <Project Path="DotNetWebApplication.csproj" />
+</Solution>

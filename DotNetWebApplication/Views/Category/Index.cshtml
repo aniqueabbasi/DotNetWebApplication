@@ -1,0 +1,73 @@
+﻿@model List<DotNetWebApplication.Models.Category>
+
+<div class="container">
+
+    <!-- Header Row -->
+    <div class="row pt-4">
+
+        <!-- Left Side -->
+        <div class="col-6">
+            <h2 class="text-primary">Category</h2>
+        </div>
+
+        <!-- Right Side -->
+        <div class="col-6 text-end">
+            <a asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                Create New Category
+            </a>
+        </div>
+
+    </div>
+
+    <!-- Table -->
+    <table class="table table-striped mt-3">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Category</th>
+                <th>Age</th>
+                <th>Email</th>
+                <th>Display Order</th>
+                <th>Actions</th> <!-- NEW COLUMN -->
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var obj in Model)
+            {
+                <tr>
+                    <td>@obj.Id</td>
+                    <td>@obj.Name</td>
+                    <td>@obj.Age</td>
+                    <td>@obj.Email</td>
+                    <td>@obj.DisplayOrder</td>
+
+                    <!-- ACTION BUTTONS -->
+                    <td>
+                        <div class="btn-group" role="group">
+
+                            <!-- Edit -->
+                            <a asp-controller="Category"
+                                   asp-action="Edit"
+                                   asp-route-id="@obj.Id"
+                                   class="btn btn-warning btn-sm">
+                                Edit
+                            </a>
+
+                            <!-- Delete -->
+                            <a asp-controller="Category"
+                                   asp-action="Delete"
+                                   asp-route-id="@obj.Id"
+                                   class="btn btn-danger btn-sm">
+                                Delete
+                            </a>
+
+                        </div>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
